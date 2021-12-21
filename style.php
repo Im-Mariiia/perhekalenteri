@@ -12,12 +12,12 @@
 
 ?>
 
-@import url('http://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Twinkle+Star&display=swap');
 @import url('<?=$headerfonts[$header]['url'] ?>');
 
 body {
   width: 297mm;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Latino', sans-serif;
   margin: 0;
   padding: 0;
 }

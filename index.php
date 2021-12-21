@@ -4,6 +4,7 @@
 
 ?>
 <!DOCTYPE html>
+<link href="styles.css" rel="stylesheet">
 <html>
   <head>
     <meta charset="UTF-8">
