@@ -17,13 +17,13 @@
 
 body {
   width: 297mm;
-  font-family: 'Latino', sans-serif;
+  font-family:  cursive;
   margin: 0;
   padding: 0;
 }
 
 h1 {
-  font-family: '<?php echo $headerfonts[$header]['name']?>', sans-serif;
+  font-family: '<?php echo $headerfonts[$header]['name']?>', font-family: 'Twinkle Star', cursive;;
   font-size: 30mm;
   text-align: center;
   text-transform: capitalize;

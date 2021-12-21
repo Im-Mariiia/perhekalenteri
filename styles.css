@@ -2,9 +2,87 @@
 
 
 body{
-    background-color: aqua;
+    border-radius: 5px;
+    background-color:#7c142e;
+    color:peachpuff;
+    margin: auto;
+    margin-top: 15px;
+    width: 50%;
+    /* max-height: 50%; */
+    height:fit-content;
+    font-family: 'Twinkle Star', cursive;
+    padding: 5px;
+    font-size: 130%;
+   
+
 }
 
+html{
+    background-color: peachpuff;
+}
 footer{
+    /* background-color: brown; */
     font-size: 80%;
 }
+
+form{
+    margin-top: -15px;
+    /* background-color: brown; */
+    display: grid;
+    grid-template-columns: auto;
+    font-size: 130%;
+    
+    /* background-color: blueviolet; */
+}
+h1{
+    text-align: center;
+    /* background-color: chartreuse;  */
+}
+select{
+    font-weight: 700;
+    color:#7c142e;;
+    font-size: 60%;
+    font-family: 'Twinkle Star', cursive;
+    background-color:peachpuff;
+}
+
+textarea{
+    border-radius: 5px;
+    font-weight: 700;
+    color:#7c142e;;
+    font-size: 60%;
+    font-family: 'Twinkle Star', cursive;
+    margin-left: 1%; 
+    background-color:peachpuff;
+}
+input{
+    border-radius: 5px;
+    font-weight: 700;
+    color:#7c142e;;
+    font-size: 60%;
+    font-family: 'Twinkle Star', cursive;
+    background-color:peachpuff;
+}
+.kk{
+    border-radius: 5px;
+    background-color:peachpuff;
+}
+
+.kuva{
+    border-radius: 5px;
+    background-color:peachpuff;
+}
+
+.of{
+    border-radius: 5px;
+    background-color:peachpuff;
+}
+.nappi{
+    font-weight: 900;
+    color:#7c142e;;
+   background-color:peachpuff;
+}
+
+
+
+
